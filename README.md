@@ -1,9 +1,8 @@
 # Hi, I'm Giorgio Papini! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I love helping people by developing new ideas and solution to their problems, programming is what helps me achieve this goal.
+<!--I love helping people by developing new ideas and solution to their problems, programming is what helps me achieve this goal.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<giorgiopapini>&theme=<THEME_NAME>" />
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<giorgiopapini>&theme=<THEME_NAME>" /> -->
 
 <!--
 **giorgiopapini/giorgiopapini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
