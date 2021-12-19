@@ -1,5 +1,6 @@
-# Hi, I'm Giorgio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Giorgio Papini! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I like coding as a way to communicate with others and sharing my ideas. Helping people by developing useful stuff is what makes me love programming and the IT world in general.
 
 <!--
 **giorgiopapini/giorgiopapini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
