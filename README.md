@@ -3,7 +3,7 @@
 <!--I love helping people by developing new ideas and solution to their problems, programming is what helps me achieve this goal.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<giorgiopapini>&theme=<THEME_NAME>" /> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giorgiopapini&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **giorgiopapini/giorgiopapini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
