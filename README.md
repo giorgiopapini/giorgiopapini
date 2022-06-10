@@ -1,4 +1,4 @@
-# Hi, I'm Giorgio Papini
+# Hi, I'm Giorgio Papini 👋
 [![Giorgio’s github stats](https://github-readme-stats.vercel.app/api?username=giorgiopapini)](https://github.com/giorgiopapini)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiopapini&layout=compact)](https://github.com/giorgiopapini)
 
